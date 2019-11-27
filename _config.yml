@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: EPF708
+disqus_username: EPF708
 
 # Gitalk
 # gitalk:
