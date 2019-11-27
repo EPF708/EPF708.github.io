@@ -1,7 +1,7 @@
 # Site settings
 title: EPF708 Blog
 SEOTitle: 俊夫的博客 | EPF708 Blog
-header-img: img/IMG_0008.jpg
+header-img: img/IMG_0008.jpeg
 email: epf708@gmail.com
 description: "崇尚使用奥卡姆牌剃刀"
 keyword: "EPF708, EPF708 Blog, 俊夫的博客, qiujunfu, 邱俊夫, MacOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/EPF708/EPF708.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "一有时间就想玩的颓废大学生"
-sidebar-avatar: /img/IMG_0012.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/IMG_0012.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
